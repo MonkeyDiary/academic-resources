@@ -7,7 +7,7 @@
 ## 这里是研究猿日记！
 
 
-### 深度学习入门文件夹
+### Getting Started in Deep Learning (深度学习入门文件夹)
 - 深度学习项目结构构建入门
 
 
